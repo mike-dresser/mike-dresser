@@ -10,6 +10,6 @@ I am a web developer based in NYC who enjoys **solving** problems, **improving**
 &nbsp;
 
 - 🌱 I’m currently working on a restaurant [menu education platform](https://github.com/mike-dresser/menu-binder) for the 21st century
-- 👯 I’m looking to collaborate on projects which make the world a more pleasant place to be
+- 👯 I’m always looking to collaborate on awesome projects
 - 💬 Ask me about the bootcamp experience, what I'm cooking, or what my cat Tyrone has managed to get into this time
 
