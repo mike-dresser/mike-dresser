@@ -4,7 +4,7 @@ I am a web developer based in NYC who is fascinated with solving problems, impro
 <div align="center">
 
   ### A few of my favorite things
-[![My Skills](https://skillicons.dev/icons?i=js,react,sass,python,flask,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,css,sass,python,flask,postman,figma,git,vim)](https://skillicons.dev)
 
 </div>
 &nbsp;
