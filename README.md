@@ -1,6 +1,6 @@
 # Hello!
 
-I am a web developer based in NYC who is fascinated with problem solving, improving systems, and making the world a better place through code. I have a background in the food and beverage industry and I enjoy working with diverse teams to create awesome user experiences. 
+I am a web developer based in NYC who is fascinated with solving problems, improving systems, and making the world a better place through code. I have a background in the food and beverage industry and I enjoy working with diverse teams to create awesome user experiences. 
 <div align="center">
 
   ### A few of my favorite things
