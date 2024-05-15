@@ -3,7 +3,7 @@
 I am a web developer based in NYC who enjoys **solving** problems, **improving** systems, and making the world **a better place** through code. I have a background in the food and beverage industry and I enjoy working with diverse teams to create awesome user experiences. 
 <div align="center">
 
-  ### A few of my favorite things
+  ### Tech
 [![My Skills](https://skillicons.dev/icons?perline=6&i=js,react,html,css,sass,python,flask,postman,figma,git,vim)](https://skillicons.dev)
 
 </div>
